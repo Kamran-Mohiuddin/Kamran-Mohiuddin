@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Mohammed Kamran Mohiuddin, a passionate first-year B.Tech student in the IT branch at Bhaskar Engineering College. 👨‍💻
+I'm [Your Name], a passionate first-year B.Tech student in the IT branch at Bhaskar Engineering College. 👨‍💻
 
 #### 🚀 Quick Overview
 
@@ -9,9 +9,16 @@ I'm Mohammed Kamran Mohiuddin, a passionate first-year B.Tech student in the IT 
 - 💡 Always eager to learn and implement new technologies.
 - 🤝 Open to collaboration on projects and initiatives.
 
+#### 🛠️ Tech Stack
+
+- Programming Languages: C, C++, Python.
+- Web Development: HTML, CSS.
+
 #### 🌐 Connect with Me
 
-- LinkedIn: www.linkedin.com/in/mohammed-kamran-mohiuddin
+- LinkedIn: https://www.linkedin.com/in/kamran-mohiuddin/
+- Twitter: https://twitter.com/Coding_HUB_
+- Instagram: https://www.instagram.com/code_.ig/
 
 #### 📫 Get in Touch
 
