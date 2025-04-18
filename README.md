@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [Your Name], a passionate first-year B.Tech student in the IT branch at Bhaskar Engineering College. 👨‍💻
+I'm Mohammed Kamran Mohiuddin, a passionate first-year B.Tech student in the IT branch at Bhaskar Engineering College. 👨‍💻
 
 #### 🚀 Quick Overview
 
